@@ -21,13 +21,12 @@ Hello! I'm Tom Kluskens, an Applied Information Technology student at University
 - **Tools:** Ubuntu, Office
 - **Soft Skills:** Teamwork, Adaptability, Problem-solving
 
-## 🚀 3 Biggest Projects
+## 🚀 Projects
 
 - **Delaware Dashboard** - A team project built with React and Node.js to visualize machine KPIs per site
 - **Turtle SRL Dashboard** - Data visualization project displaying customer data in charts using JavaScript
+- **Recipe Relay** - A social platform for students to upload, share, like and comment on recipes plus add friends, built with Node.js, React and Tailwind CSS
 - **School Library System** - Book management system with automatic QR code generation using PHP and MySQL
-
-
 
 ## 🌎 Languages
 
